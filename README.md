@@ -50,9 +50,9 @@ Ingredients:
 All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
 
 Programs:
-No cake workshop or decoration classes
+No bake workshop or baking classes
 No loyalty program (will soon be implemented)
-No refunds and returns
+no refunds and returns
 
 Promotions:
 [danish Spree] danish pastry 30% off (End at 7th februaru)
@@ -71,4 +71,5 @@ Doesn't accept order issues, if any issue on orders, tell them to contact custom
 others product:
 cappucino hot or cold(rm5)
 americano hot or cold(rm5)
-orange juice 
+orange juice cold(rm5)
+milk hot and cold(rm3)
